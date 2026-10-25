@@ -8,8 +8,8 @@ import lombok.Setter;
 @Getter
 @Setter
 @NoArgsConstructor
-@AllArgsConstructor
-public class apiDTO {
+@AllArgsConstructor 
+public class MedicoDTO {
     public String nome;
     public String especialidade;
     public String crm;
